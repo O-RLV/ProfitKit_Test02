@@ -1,0 +1,25 @@
+.slider {
+  width: 800px;
+  margin: 0 auto;
+}
+
+.btn {
+  display: block;
+  width: 205px;
+  border: 3px solid #A9A9A9;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 10px;
+  margin: 0 auto;
+  font-family: Verdana, Helvetica, sans-serif;
+  color: #A9A9A9;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.btn:hover {
+  cursor: pointer;
+  background-color: #A9A9A9;
+  color: white;
+}
